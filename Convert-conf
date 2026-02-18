@@ -1,1 +1,7 @@
-Python command name
+Python command example
+
+Convert-conf.py  ka9q-radiod-example.conf ka9q-radiod-example.d
+
+this will take a ka9q-radio single configuration file and convert it into a ka9q-radiod configuration directory format.
+
+Dave KV0S
